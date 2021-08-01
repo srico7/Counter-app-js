@@ -1,0 +1,19 @@
+body{
+    background-color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    border: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: whitesmoke;
+    font-weight: bold;
+    width: 12rem;
+    margin-bottom: 0.3rem;
+    border-radius: 5px;
+}
+#add-btn{
+    background: darkorchid;
+}
