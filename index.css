@@ -17,3 +17,13 @@ button{
 #add-btn{
     background: darkorchid;
 }
+#add-btn:hover{
+    transform: scale(1.05);
+}
+
+#save-btn{
+    background: darkturquoise;
+}
+#save-btn:hover{
+    transform: scale(1.05);
+}
